@@ -1,4 +1,4 @@
-# GoodAI Brain Simulator
+# GoodAI Brain Simulator AIWORKER
 
 **New with School for AI (read more here: [http://blog.marekrosa.org/2016/12/goodai-releases-school-for-ai-new_1.html](http://blog.marekrosa.org/2016/12/goodai-releases-school-for-ai-new_1.html)).**
 
